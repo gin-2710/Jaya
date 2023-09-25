@@ -1,0 +1,41 @@
+{
+    "drivingData": [
+        {
+            "timestamp": "2023-05-24T05:55:00+00:00",
+            "is_overspeeding": true,
+            "vehicle_id": 1234,
+            "location_type": "highway"
+        },
+        {
+            "timestamp": "2023-05-24T05:56:00+00:00",
+            "is_overspeeding": true,
+            "vehicle_id": 1234,
+            "location_type": "highway"
+        },
+        {
+            "timestamp": "2023-05-24T05:57:00+00:00",
+            "is_overspeeding": true,
+            "vehicle_id": 1234,
+            "location_type": "highway"
+        },
+        {
+            "timestamp": "2023-05-24T05:58:00+00:00",
+            "is_overspeeding": true,
+            "vehicle_id": 1234,
+            "location_type": "highway"
+        },
+        {
+            "timestamp": "2023-05-24T05:59:00+00:00",
+            "is_overspeeding": true,
+            "vehicle_id": 1234,
+            "location_type": "highway"
+        },
+        {
+            "timestamp": "2023-05-24T05:59:00+00:00",
+            "is_overspeeding": true,
+            "vehicle_id": 1237,
+            "location_type": "highway"
+        }
+
+    ]
+}
